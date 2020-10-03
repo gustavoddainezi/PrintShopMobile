@@ -1,3 +1,11 @@
+## 🛠 Tecnologias
+
+As seguintes ferramentas foram usadas na construção do projeto:
+-   **[Flutter](https://flutter.dev/)**
+-   **[Dart](https://dart.dev/)**
+
+---
+
 ## 👨‍💻 Equipe de Desenvolvimento
 
 <table align="center">
