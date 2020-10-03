@@ -1,3 +1,12 @@
+## ⚙️ Telas do Sistema
+
+- [x] Início/Home
+- [x] Orçamento
+- [x] Contatos
+- [x] Sobre
+
+---
+
 ## 🛠 Tecnologias
 
 As seguintes ferramentas foram usadas na construção do projeto:
