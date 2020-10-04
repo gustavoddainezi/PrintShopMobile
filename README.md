@@ -1,3 +1,10 @@
+## 💻 Sobre
+
+<p align="justify">O projeto foi desenvolvido para fechamento de nota da matéria Projeto Integrador (PI) na Faculdade de Tecnologia do Estado de São Paulo (FATEC) Ferraz de Vasconcelos, com o objetivo de criar um módulo mobile que trabalhe junto da aplicação principal PrintShopManager e auxilie os usuário a melhorarem sua venda.</p>
+
+<p align="justify">O aplicativo assemelha-se a um site de divulgação, com uma funcionalidade de orçamento simples onde além de conhecer mais sobre a empresa, o cliente ainda poderá criar orçamentos simples e apresenta-los na gráfica na hora de realizar seus pedidos!.</p>
+
+
 ## ⚙️ Telas do Sistema
 
 - [x] Início/Home
