@@ -1,4 +1,10 @@
-
+<p align="center">
+ <a href="#-sobre">Sobre</a> •
+ <a href="#-telas-do-sistema">Telas</a> •
+ <a href="#-tecnologias">Tecnologias</a> •
+ <a href="#-equipe-de-desenvolvimento">Equipe</a> •
+ <a href="#-licença">Licença</a>
+</p>
 
 ## 💻 Sobre
 
@@ -8,7 +14,7 @@
 
 ---
 
-## Telas do Sistema
+## ⚙ Telas do Sistema
 
 - [x] Início/Home
 - [x] Orçamento
